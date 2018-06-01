@@ -16,7 +16,7 @@ Follow *steps one and two* from the tutorial: 1-Starting a Hyperledger Fabric ne
 In *step three* create a folder called `certificates` and follow the instructions:
 3-Building a connection profile and save to the folder `connection.json`.
 
-Follow *step four* to Locating the certificate and private key for the Hyperledger Fabric administrator and copying these certificates in the file `certificates`. Note that these certificates change every time we boostrap the fabric network.
+Follow *step four* to locate the certificate and private key for the Hyperledger Fabric administrator and copying these certificates in the file `certificates`. Note that these certificates change every time we boostrap the fabric network.
 
 Navigate to the folder you just created and follow *step five*, creating a business network card for the Hyperledger Fabric administrator:
 `````
